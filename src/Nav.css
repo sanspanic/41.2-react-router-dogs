@@ -1,0 +1,15 @@
+.Nav {
+  background-color: darkslateblue;
+  padding: 1.3rem;
+  text-align: center;
+}
+
+.Nav a {
+  font-size: 1.3rem;
+  color: rgba(245, 245, 245, 0.699);
+  margin: 1rem;
+}
+
+.Nav a.active {
+  color: white;
+}

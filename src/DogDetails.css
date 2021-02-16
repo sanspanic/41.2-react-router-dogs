@@ -1,0 +1,24 @@
+.DogDetails img {
+  width: 400px;
+}
+
+.DogDetails h4 {
+  font-size: 1.5rem;
+}
+
+.DogDetails {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.DogDetails ul {
+  border: 1px solid grey;
+  padding: 0.7rem;
+  list-style: none;
+  background-color: whitesmoke;
+}
+
+.DogDetails-back {
+  text-align: center;
+}
